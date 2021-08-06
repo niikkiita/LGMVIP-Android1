@@ -1,1 +1,1 @@
-"# FaceDetection application in this detecting faces in an image 
+"# FaceDetection application in this  faces are detected  in an image 
